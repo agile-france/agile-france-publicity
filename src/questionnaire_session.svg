@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,11 +14,11 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.46"
+   inkscape:version="0.48.1 r9760"
    sodipodi:docname="questionnaire_session.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="D:\agile-france-badge\gitrepo\agile-france-publicity\questionnaire_session.png"
+   inkscape:export-filename="../questionnaire_session.png"
    inkscape:export-xdpi="300.01077"
    inkscape:export-ydpi="300.01077">
   <defs
@@ -57,16 +58,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4395578"
-     inkscape:cx="-15.596326"
-     inkscape:cy="743.4606"
+     inkscape:zoom="0.6216286"
+     inkscape:cx="340.6386"
+     inkscape:cy="452.28957"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1400"
-     inkscape:window-height="1006"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
      inkscape:snap-bbox="true"
@@ -86,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +107,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2818"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
        transform="translate(161.46912,-6.256037)"><flowRegion
          id="flowRegion2820"><rect
            id="rect2822"
@@ -114,12 +115,12 @@
            height="117.14286"
            x="51.42857"
            y="55.219326"
-           style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold" /></flowRegion><flowPara
+           style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold" /></flowRegion><flowPara
          id="flowPara2824"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">Votre avis</flowPara></flowRoot>    <flowRoot
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Votre avis</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2826"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#001430;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#001430;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Semi-Condensed;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        transform="translate(100.55608,192.08731)"><flowRegion
          id="flowRegion2828"><rect
            id="rect2830"
@@ -127,9 +128,9 @@
            height="505.71429"
            x="48.57143"
            y="500.93362"
-           style="fill:#001430;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#001430;fill-opacity:1;-inkscape-font-specification:DejaVu Sans Semi-Condensed;font-family:DejaVu Sans;font-weight:normal;font-style:normal;font-stretch:semi-condensed;font-variant:normal;font-size:40px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
          id="flowPara2832"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#001430;fill-opacity:1;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium">Ce qui manque pour avoir 10 :</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;writing-mode:lr;text-anchor:start;fill:#001430;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Semi-Condensed;font-size:40px;line-height:125%">Ce qui manque pour avoir 10 :</flowPara></flowRoot>    <rect
        style="opacity:1;fill:url(#linearGradient3436);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3377"
        width="165.44746"
@@ -139,13 +140,6 @@
        rx="10.250358"
        ry="10.250358"
        transform="matrix(0.9507523,-0.3099518,0.3099518,0.9507523,0,0)" />
-    <image
-       y="52.362183"
-       x="520"
-       id="image2904"
-       height="193"
-       width="214"
-       xlink:href="../logo-leaning-blurred.png" />
     <rect
        style="fill:#f9f9f9"
        id="rect2984"
@@ -209,7 +203,7 @@
            y="295.21933" /></flowRegion><flowPara
          id="flowPara3093" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#001430;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#001430;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Semi-Condensed;font-stretch:semi-condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
        x="148.86467"
        y="399.22083"
        id="text3095"
@@ -218,7 +212,7 @@
          id="tspan3097"
          x="148.86467"
          y="399.22083"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#001430;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans;font-size:40px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Ce que vous avez aimé :</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;fill:#001430;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Semi-Condensed;font-size:40px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%">Ce que vous avez aimé :</tspan></text>
     <rect
        style="fill:#deeaf5;fill-opacity:1"
        id="rect3061-7"
@@ -370,7 +364,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#001430;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#001430;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
        x="-1027.2218"
        y="738.17737"
        id="text3499"
@@ -379,7 +373,7 @@
          sodipodi:role="line"
          id="tspan3501"
          x="-1027.2218"
-         y="738.17737">agile conference 2010 - 30 mai &amp; 1 juin 2010</tspan></text>
+         y="738.17737">agile conference - questionnaire session</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -443,5 +437,12 @@
          d="M 175.42653,616.75849 L 670.02036,616.75849"
          style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <image
+       y="72.883766"
+       x="544.02734"
+       id="image3171"
+       xlink:href="../logo.png"
+       height="159.24986"
+       width="159.24986" />
   </g>
 </svg>
