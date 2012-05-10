@@ -25,3 +25,10 @@ inkscape --without-gui --file=../src/badges-A4.svg --export-dpi=300 --export-are
 
 printExportedFileSuccess $PDFFILE
 printExportedFileSuccess $PNGFILE
+
+DATAPDF=../generated/badges-2778878701.pdf
+FINALPDF=../generated/badges-A4-data.pdf
+
+pdftk $DATAPDF background $PDFFILE output $FINALPDF
+
+printExportedFileSuccess $FINALPDF
