@@ -17,7 +17,266 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="badges-A4.svg">
   <defs
-     id="defs3" />
+     id="defs3">
+    <linearGradient
+       id="linearGradient3080">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080"
+       id="linearGradient3104"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-7"
+       id="linearGradient3104-4"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-7">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-8" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-2"
+       id="linearGradient3104-49"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-2">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-9" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-5"
+       id="linearGradient3104-3"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-5">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-0" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-27"
+       id="linearGradient3104-2"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-27">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-3" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-3"
+       id="linearGradient3104-7"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-3">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-7" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-70"
+       id="linearGradient3104-30"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-70">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-6" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-4"
+       id="linearGradient3104-0"
+       gradientUnits="userSpaceOnUse"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076"
+       gradientTransform="translate(-0.14025497,-35.540222)" />
+    <linearGradient
+       id="linearGradient3080-4">
+      <stop
+         style="stop-color:#d8eef5;stop-opacity:1;"
+         offset="0"
+         id="stop3082-1" />
+      <stop
+         style="stop-color:#8ab6db;stop-opacity:1;"
+         offset="1"
+         id="stop3084-53" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080"
+       id="linearGradient4090"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.14025497,-35.540222)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080"
+       id="linearGradient4097"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.14025151,-35.540225)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-7"
+       id="linearGradient4104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(304.58414,-35.540225)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-2"
+       id="linearGradient4111"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.14025914,159.34167)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-5"
+       id="linearGradient4118"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(304.58414,159.34167)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-27"
+       id="linearGradient4125"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.14025151,354.22357)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-3"
+       id="linearGradient4132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(304.58414,354.22357)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-70"
+       id="linearGradient4139"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.14025151,549.10547)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3080-4"
+       id="linearGradient4146"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(304.58414,549.10547)"
+       x1="67.142853"
+       y1="213.79076"
+       x2="374.64703"
+       y2="213.79076" />
+  </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
      id="base"
@@ -26,9 +285,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="242.94578"
-     inkscape:cy="347.29471"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="418.73124"
+     inkscape:cy="719.12148"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -58,20 +317,20 @@
        style="fill:none;stroke:none"
        id="rect2991"
        width="304.7244"
-       height="191.33858"
-       x="372.1875"
-       y="179.04414" />
+       height="194.8819"
+       x="372.04724"
+       y="136.4173" />
     <rect
-       y="179.04414"
-       x="67.463104"
-       height="191.33858"
+       y="136.4173"
+       x="67.322853"
+       height="194.8819"
        width="304.7244"
        id="rect3761"
-       style="fill:none;stroke:none" />
+       style="fill:none;stroke:none;stroke-opacity:1" />
     <rect
-       y="370.38272"
-       x="372.1875"
-       height="191.33858"
+       y="331.29919"
+       x="372.04724"
+       height="194.8819"
        width="304.7244"
        id="rect3763"
        style="fill:none;stroke:none" />
@@ -79,27 +338,27 @@
        style="fill:none;stroke:none"
        id="rect3765"
        width="304.7244"
-       height="191.33858"
-       x="67.463097"
-       y="370.38275" />
+       height="194.8819"
+       x="67.322845"
+       y="331.29919" />
     <rect
        style="fill:none;stroke:none"
        id="rect3767"
        width="304.7244"
-       height="191.33858"
-       x="372.1875"
-       y="561.72113" />
+       height="194.8819"
+       x="372.04724"
+       y="526.18109" />
     <rect
-       y="561.72113"
-       x="67.463104"
-       height="191.33858"
+       y="526.18109"
+       x="67.322853"
+       height="194.8819"
        width="304.7244"
        id="rect3769"
        style="fill:none;stroke:none" />
     <rect
-       y="753.05902"
-       x="67.463104"
-       height="191.33858"
+       y="721.06299"
+       x="67.322853"
+       height="194.8819"
        width="304.7244"
        id="rect3771"
        style="fill:none;stroke:none" />
@@ -107,184 +366,256 @@
        style="fill:none;stroke:none"
        id="rect3773"
        width="304.7244"
-       height="191.33858"
-       x="372.1875"
-       y="753.05902" />
+       height="194.8819"
+       x="372.04724"
+       y="721.06299" />
     <path
-       style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,178.78188 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
+       style="fill:url(#linearGradient4097);fill-opacity:1;stroke:none"
+       d="m 67.322858,136.4173 304.724382,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724382,-20 z"
        id="rect3879"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3882"
-       d="m 372.21809,178.78188 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
-       style="fill:#cae8f1;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,370.19838 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
-       id="path3884"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3886"
-       d="m 372.21809,370.19838 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
-       style="fill:#cae8f1;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,561.61181 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
-       id="path3888"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3890"
-       d="m 372.21809,561.61181 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
-       style="fill:#cae8f1;fill-opacity:1;stroke:none" />
-    <path
-       style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 372.21809,753.02723 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
-       id="path3892"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path3894"
-       d="m 67.152016,753.02723 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
-       style="fill:#cae8f1;fill-opacity:1;stroke:none" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       y="299.51657"
-       x="67.82048"
+       width="74.409447"
+       height="74.409447"
        id="image3977"
-       height="70.866142"
-       width="70.866142" />
+       x="71.680229"
+       y="252.88965" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="357.64661"
+       y="296.95569"
+       id="text3114"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116"
+         x="357.64661"
+         y="296.95569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="357.64661"
+         y="311.36844"
+         id="tspan3118"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4104);fill-opacity:1;stroke:none"
+       d="m 372.04725,136.4173 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       id="rect3879-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
-       id="image3980"
-       x="371.8764"
-       y="299.51657" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-8"
+       x="376.40463"
+       y="252.88965" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="662.37097"
+       y="296.95569"
+       id="text3114-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-0"
+         x="662.37097"
+         y="296.95569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="662.37097"
+         y="311.36844"
+         id="tspan3118-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4111);fill-opacity:1;stroke:none"
+       d="m 67.322851,331.29919 304.724389,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724389,-20 z"
+       id="rect3879-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       y="490.85516"
-       x="371.8764"
-       id="image3982"
-       height="70.866142"
-       width="70.866142" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-83"
+       x="71.680222"
+       y="447.77155" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="357.64661"
+       y="491.83759"
+       id="text3114-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-4"
+         x="357.64661"
+         y="491.83759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="357.64661"
+         y="506.25034"
+         id="tspan3118-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4118);fill-opacity:1;stroke:none"
+       d="m 372.04725,331.29919 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       id="rect3879-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
-       id="image3984"
-       x="67.82048"
-       y="490.85519" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-80"
+       x="376.40463"
+       y="447.77155" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="662.37097"
+       y="491.83759"
+       id="text3114-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-9"
+         x="662.37097"
+         y="491.83759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="662.37097"
+         y="506.25034"
+         id="tspan3118-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4125);fill-opacity:1;stroke:none"
+       d="m 67.322858,526.18109 304.724382,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724382,-20 z"
+       id="rect3879-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       y="682.19354"
-       x="67.82048"
-       id="image3986"
-       height="70.866142"
-       width="70.866142" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-7"
+       x="71.680229"
+       y="642.65344" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="357.64661"
+       y="686.71948"
+       id="text3114-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-02"
+         x="357.64661"
+         y="686.71948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="357.64661"
+         y="701.1322"
+         id="tspan3118-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4132);fill-opacity:1;stroke:none"
+       d="m 372.04725,526.18109 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       id="rect3879-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
-       id="image3988"
-       x="371.8764"
-       y="682.19354" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-6"
+       x="376.40463"
+       y="642.65344" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="662.37097"
+       y="686.71948"
+       id="text3114-23"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-2"
+         x="662.37097"
+         y="686.71948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="662.37097"
+         y="701.1322"
+         id="tspan3118-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4139);fill-opacity:1;stroke:none"
+       d="m 67.322858,721.06299 304.724382,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724382,-20 z"
+       id="rect3879-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       y="873.53143"
-       x="371.8764"
-       id="image3990"
-       height="70.866142"
-       width="70.866142" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-70"
+       x="71.680229"
+       y="837.53534" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="357.64661"
+       y="881.60138"
+       id="text3114-07"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-8"
+         x="357.64661"
+         y="881.60138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="357.64661"
+         y="896.0141"
+         id="tspan3118-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
+    <path
+       style="fill:url(#linearGradient4146);fill-opacity:1;stroke:none"
+       d="m 372.04725,721.06299 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       id="rect3879-58"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
-       id="image3992"
-       x="67.82048"
-       y="873.53143" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       y="332.29218"
-       x="318.72681"
-       id="image4107"
-       height="38.090549"
-       width="53.149605" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
-       id="image4110"
-       x="623.79285"
-       y="332.29218" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       y="523.63068"
-       x="623.79285"
-       id="image4112"
-       height="38.090549"
-       width="53.149605" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
-       id="image4114"
-       x="318.72681"
-       y="523.63074" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       y="714.96918"
-       x="318.72681"
-       id="image4116"
-       height="38.090549"
-       width="53.149605" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
-       id="image4118"
-       x="623.79285"
-       y="714.96918" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       y="906.30707"
-       x="623.79285"
-       id="image4120"
-       height="38.090549"
-       width="53.149605" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
-       id="image4122"
-       x="318.72681"
-       y="906.30707" />
+       xlink:href="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       width="74.409447"
+       height="74.409447"
+       id="image3977-3"
+       x="376.40463"
+       y="837.53534" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.53019619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="662.37097"
+       y="881.60138"
+       id="text3114-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116-05"
+         x="662.37097"
+         y="881.60138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">conf.agile-france.org</tspan><tspan
+         sodipodi:role="line"
+         x="662.37097"
+         y="896.0141"
+         id="tspan3118-95"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">#agilefrance  @agilefrance</tspan></text>
   </g>
 </svg>
