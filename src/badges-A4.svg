@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="487.0928"
-     inkscape:cy="440.87624"
+     inkscape:cx="242.94578"
+     inkscape:cy="347.29471"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -60,16 +60,16 @@
        width="304.7244"
        height="191.33858"
        x="372.1875"
-       y="143.61201" />
+       y="179.04414" />
     <rect
-       y="143.61201"
+       y="179.04414"
        x="67.463104"
        height="191.33858"
        width="304.7244"
        id="rect3761"
        style="fill:none;stroke:none" />
     <rect
-       y="334.95059"
+       y="370.38272"
        x="372.1875"
        height="191.33858"
        width="304.7244"
@@ -81,23 +81,23 @@
        width="304.7244"
        height="191.33858"
        x="67.463097"
-       y="334.95062" />
+       y="370.38275" />
     <rect
        style="fill:none;stroke:none"
        id="rect3767"
        width="304.7244"
        height="191.33858"
        x="372.1875"
-       y="526.289" />
+       y="561.72113" />
     <rect
-       y="526.289"
+       y="561.72113"
        x="67.463104"
        height="191.33858"
        width="304.7244"
        id="rect3769"
        style="fill:none;stroke:none" />
     <rect
-       y="717.62689"
+       y="753.05902"
        x="67.463104"
        height="191.33858"
        width="304.7244"
@@ -109,10 +109,10 @@
        width="304.7244"
        height="191.33858"
        x="372.1875"
-       y="717.62689" />
+       y="753.05902" />
     <path
        style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,143.34977 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
+       d="m 67.152016,178.78188 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
        id="rect3879"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -120,11 +120,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3882"
-       d="m 372.21809,143.34977 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       d="m 372.21809,178.78188 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
        style="fill:#cae8f1;fill-opacity:1;stroke:none" />
     <path
        style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,334.76627 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
+       d="m 67.152016,370.19838 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
        id="path3884"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -132,11 +132,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3886"
-       d="m 372.21809,334.76627 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       d="m 372.21809,370.19838 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
        style="fill:#cae8f1;fill-opacity:1;stroke:none" />
     <path
        style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 67.152016,526.1797 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
+       d="m 67.152016,561.61181 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
        id="path3888"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -144,11 +144,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3890"
-       d="m 372.21809,526.1797 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       d="m 372.21809,561.61181 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
        style="fill:#cae8f1;fill-opacity:1;stroke:none" />
     <path
        style="fill:#cae8f1;fill-opacity:1;stroke:none"
-       d="m 372.21809,717.59512 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
+       d="m 372.21809,753.02723 304.72438,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.72438,-20 z"
        id="path3892"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -156,54 +156,46 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3894"
-       d="m 67.152016,717.59512 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
+       d="m 67.152016,753.02723 304.724384,0 0,88.58269 c -101.57479,0 -203.14959,-20 -304.724384,-20 z"
        style="fill:#cae8f1;fill-opacity:1;stroke:none" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
+       y="299.51657"
+       x="67.82048"
        id="image3977"
-       x="67.82048"
-       y="263.89853" />
+       height="70.866142"
+       width="70.866142" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       y="263.89853"
-       x="371.8764"
+       width="70.866142"
+       height="70.866142"
        id="image3980"
-       height="70.866142"
-       width="70.866142" />
+       x="371.8764"
+       y="299.51657" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
+       y="490.85516"
+       x="371.8764"
        id="image3982"
-       x="371.8764"
-       y="455.31464" />
+       height="70.866142"
+       width="70.866142" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       y="455.31464"
-       x="67.82048"
+       width="70.866142"
+       height="70.866142"
        id="image3984"
-       height="70.866142"
-       width="70.866142" />
+       x="67.82048"
+       y="490.85519" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       width="70.866142"
-       height="70.866142"
+       y="682.19354"
+       x="67.82048"
        id="image3986"
-       x="67.82048"
-       y="646.73083" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
-       xlink:href="../logo.png"
-       y="646.73083"
-       x="371.8764"
-       id="image3988"
        height="70.866142"
        width="70.866142" />
     <image
@@ -211,63 +203,63 @@
        xlink:href="../logo.png"
        width="70.866142"
        height="70.866142"
-       id="image3990"
+       id="image3988"
        x="371.8764"
-       y="838.14624" />
+       y="682.19354" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
        xlink:href="../logo.png"
-       y="838.14624"
-       x="67.82048"
-       id="image3992"
+       y="873.53143"
+       x="371.8764"
+       id="image3990"
        height="70.866142"
        width="70.866142" />
     <image
+       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../logo.png"
+       xlink:href="../logo.png"
+       width="70.866142"
+       height="70.866142"
+       id="image3992"
+       x="67.82048"
+       y="873.53143" />
+    <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
+       y="332.29218"
+       x="318.72681"
        id="image4107"
-       x="318.72681"
-       y="296.6741" />
+       height="38.090549"
+       width="53.149605" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       y="296.6741"
-       x="623.79285"
+       width="53.149605"
+       height="38.090549"
        id="image4110"
-       height="38.090549"
-       width="53.149605" />
+       x="623.79285"
+       y="332.29218" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
+       y="523.63068"
+       x="623.79285"
        id="image4112"
-       x="623.79285"
-       y="488.09021" />
+       height="38.090549"
+       width="53.149605" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       y="488.09021"
-       x="318.72681"
+       width="53.149605"
+       height="38.090549"
        id="image4114"
-       height="38.090549"
-       width="53.149605" />
+       x="318.72681"
+       y="523.63074" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       width="53.149605"
-       height="38.090549"
+       y="714.96918"
+       x="318.72681"
        id="image4116"
-       x="318.72681"
-       y="679.50641" />
-    <image
-       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
-       xlink:href="../sponsors/soat.png"
-       y="679.50641"
-       x="623.79285"
-       id="image4118"
        height="38.090549"
        width="53.149605" />
     <image
@@ -275,16 +267,24 @@
        xlink:href="../sponsors/soat.png"
        width="53.149605"
        height="38.090549"
-       id="image4120"
+       id="image4118"
        x="623.79285"
-       y="870.92188" />
+       y="714.96918" />
     <image
        sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
        xlink:href="../sponsors/soat.png"
-       y="870.92188"
-       x="318.72681"
-       id="image4122"
+       y="906.30707"
+       x="623.79285"
+       id="image4120"
        height="38.090549"
        width="53.149605" />
+    <image
+       sodipodi:absref="/home/ericlemerdy/Projets/agile-france-publicity/src/../sponsors/soat.png"
+       xlink:href="../sponsors/soat.png"
+       width="53.149605"
+       height="38.090549"
+       id="image4122"
+       x="318.72681"
+       y="906.30707" />
   </g>
 </svg>
