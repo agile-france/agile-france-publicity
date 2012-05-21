@@ -3,6 +3,7 @@
 source functions.sh
 
 source generate-badges-A4.sh
+source generate-booklet.sh
 source generate-flocage.sh
 source generate-flyer.sh
 source generate-logo.sh
