@@ -11,4 +11,4 @@ source generate-program.sh
 source generate-questionnaire-session.sh
 source generate-rooms.sh
 
-rsync --verbose --update --recursive --human-readable --delete ../generated ~/Dropbox/
+rsync --verbose --update --recursive --human-readable --delete ../generated ~/Dropbox/agile-france-2012/
