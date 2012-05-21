@@ -1,19 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
-deleteExistingFile () {
-	if [ -f $1 ]; then
-        	echo $1 already exists, deleting...
-        	rm $1
-	fi
-}
-
-printExportedFileSuccess () {
-	if [ -f $1 ]; then
-		echo $1 sucessfully generated.
-	else
-		echo Fail to generate $1.
-	fi
-}
+source functions.sh
 
 PDFFILE=../generated/badges-A4.pdf
 PNGFILE=../generated/badges-A4.png
