@@ -16,3 +16,6 @@ printExportedFileSuccess () {
 		echo [AGILE FRANCE] Fail to generate $1.
 	fi
 }
+
+echo [AGILE FRANCE] Installing required fonts...
+sudo cp --no-clobber --verbose ../fonts/* /usr/share/fonts/
