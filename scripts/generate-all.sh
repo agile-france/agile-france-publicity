@@ -12,5 +12,6 @@ source generate-plan.sh
 source generate-program.sh
 source generate-questionnaire-session.sh
 source generate-rooms.sh
+source generate-badges.sh
 
 rsync --verbose --update --recursive --human-readable --delete ../generated ~/Dropbox/agile-france-2012/
